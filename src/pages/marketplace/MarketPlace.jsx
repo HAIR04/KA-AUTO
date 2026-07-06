@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+
 import { logo } from "../../assets/images";
 const KaAuto = () => {
   return (
@@ -9,6 +9,7 @@ const KaAuto = () => {
       >
         <img
           src={logo}
+          alt="Logo KA AUTO"
           className="2xl:w-[10%] w-[50%]
                                    xl:w-[5%]"
         ></img>{" "}

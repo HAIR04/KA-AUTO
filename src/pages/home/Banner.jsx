@@ -55,6 +55,7 @@ const Banner = () => {
     >
       <img
         src={logo}
+        alt="Logo KA AUTO"
         className="2xl:w-[10%] w-[50%]
                                    xl:w-[5%]"
       ></img>{" "}
