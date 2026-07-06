@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    font-family: "Work Sans", sans-serif;
+}
+h1{
+    font-family: "Space Mono", monospace; 
+}
+.font-great-vibes {
+    font-family: 'Great Vibes', cursive;
+}
+@keyframes zoomInOut {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.08);
+  }
+}
+
+.animate-zoom {
+  animation: zoomInOut 1.5s ease-in-out infinite;
+}
