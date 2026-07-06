@@ -64,8 +64,8 @@ const Banner = () => {
         dùng oke mới thanh toán
       </p>
       {/* Giới thiệu KA AUTO */}
-      <div className="w-[95%] md:w-[90%] xl:w-[75%] bg-gradient-to-r from-red-600 to-orange-500 rounded-3xl mx-auto text-white">
-        <div className="w-[95%] mx-auto md:w-[90%] xl:w-[75%]  p-8  text-white">
+      <div className="w-[97%] md:w-[90%] xl:w-[75%] bg-gradient-to-r from-red-600 to-orange-500 rounded-3xl mx-auto text-white">
+        <div className="w-[100%] mx-auto md:w-[90%] xl:w-[75%]  p-5  text-white">
           <p className="text-center  animate-zoom text-yellow-300 font-bold tracking-widest text-3xl uppercase">
             🎉 ƯU ĐÃI ĐẶC BIỆT
           </p>
@@ -77,7 +77,7 @@ const Banner = () => {
             TẶNG MIỄN PHÍ Vietmap Live Pro 2 năm trị giá 890.000đ
           </p>
 
-          <div className="bg-white/15 rounded-2xl p-6 mt-8">
+          <div className="bg-white/15 rounded-2xl -10 p-6 mt-8">
             <p className="font-semibold text-center text-xl mb-4">
               Tính năng của KA AUTO
             </p>
@@ -119,7 +119,7 @@ const Banner = () => {
           <div className="mt-8 flex justify-center">
             <a
               href="https://zalo.me/0964445201"
-              className="bg-white text-red-600 font-bold text-lg px-10 py-3 rounded-xl  animate-zoom hover:scale-105 transition-all duration-300"
+              className="bg-white text-red-600 font-bold text-center text-lg px-10 py-3 rounded-xl  animate-zoom hover:scale-105 transition-all duration-300"
             >
               ĐĂNG KÝ CÀI ĐẶT NGAY
             </a>
@@ -135,13 +135,13 @@ const Banner = () => {
         >
           <a
             href="https://zalo.me/0964445201"
-            className="font-semibold text-white text-lg"
+            className="font-semibold text-white "
           >
             Liên hệ cài đặt : 096.444.5201
           </a>
         </button>
       </div>
-      <div className="w-[90%] max-w-2xl bg-gray-100 rounded-2xl shadow-lg p-8 mt-10">
+      <div className="w-[97%] max-w-2xl bg-gray-100 rounded-2xl shadow-lg p-8 mt-10">
         <h2 className="text-2xl font-bold text-center text-gray-800 mb-2">
           Đăng ký cài đặt KA AUTO
         </h2>

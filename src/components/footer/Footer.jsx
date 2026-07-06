@@ -25,7 +25,7 @@ const Footer = () => {
 
         {/* Mô tả */}
         <p className="mt-4 max-w-md text-gray-600 font-semibold">
-          KA AUTO - Giải pháp xem giải trí giá rẻ cho ô tô.
+          KA AUTO - Giải pháp giải trí giá rẻ cho ô tô.
         </p>
 
         {/* Mạng xã hội */}

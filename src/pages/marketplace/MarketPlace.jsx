@@ -82,14 +82,14 @@ const KaAuto = () => {
             </a>
           </p>
         </div>
-        <div className="">
+        <div className="mx-auto">
             <button
-          className="bg-gradient-to-r  from-red-600 to-orange-500 px-16 py-2 rounded-lg
+          className="bg-gradient-to-r  from-red-600 to-orange-500 px-12 py-2 rounded-lg
              hover:bg-gray-300
              transition-all duration-500
              animate-zoom"
         >
-          <a href="https://zalo.me/0964445201" className="font-semibold text-white text-lg">
+          <a href="https://zalo.me/0964445201" className="font-semibold text-white ">
             Liên hệ cài đặt : 096.444.5201
           </a>
         </button>
