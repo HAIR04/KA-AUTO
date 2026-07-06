@@ -19,7 +19,7 @@ const Footer = () => {
             className="w-14 md:w-16"
           />
           <h1 className="text-4xl font-extrabold tracking-wider bg-gradient-to-r from-red-700 via-red-600 to-red-800 bg-clip-text text-transparent italic">
-            KA AUTO
+            KA AUTO 
           </h1>
         </a>
 
