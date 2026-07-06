@@ -36,28 +36,28 @@ const Footer = () => {
 
           <div className="flex justify-center gap-6 text-3xl">
             <a
-              href="#"
+              href="https://www.tiktok.com/@kaauto"
               className="hover:text-red-600 transition duration-300"
             >
               <FontAwesomeIcon icon={faTiktok} />
             </a>
 
             <a
-              href="#"
+              href="https://www.youtube.com/@kaauto"
               className="hover:text-red-600 transition duration-300"
             >
               <FontAwesomeIcon icon={faYoutube} />
             </a>
 
             <a
-              href="#"
+              href="https://www.facebook.com/kaauto"
               className="hover:text-blue-600 transition duration-300"
             >
               <FontAwesomeIcon icon={faFacebook} />
             </a>
 
             <a
-              href="#"
+              href="https://www.instagram.com/kaauto"
               className="hover:text-pink-600 transition duration-300"
             >
               <FontAwesomeIcon icon={faInstagram} />
