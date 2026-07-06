@@ -76,7 +76,7 @@ const Header = () => {
                   className="w-[9%] xl:w-[5%]"
                   alt="KA Auto "
                 />
-                <p className="px-2 text-red-800">Cài đặt KA Auto</p>
+                <p className="px-2 text-red-800">Cài đặt KA Auto </p>
               </Link>
 
               <Link
