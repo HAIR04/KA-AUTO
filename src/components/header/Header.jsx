@@ -74,7 +74,7 @@ const Header = () => {
                 <img
                   src={logo}
                   className="w-[9%] xl:w-[5%]"
-                  alt="KA Auto"
+                  alt="KA Auto "
                 />
                 <p className="px-2 text-red-800">Cài đặt KA Auto</p>
               </Link>
