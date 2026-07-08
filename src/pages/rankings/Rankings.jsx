@@ -84,7 +84,7 @@ const Vietmap = () => {
                   <span className="line-through opacity-70">1.290.000đ</span>
 
                   <span className="font-semibold text-white-300 text-xl">
-                    1.000.000đ
+                    1.000.000đ 
                   </span>
                 </div>
               </div>
