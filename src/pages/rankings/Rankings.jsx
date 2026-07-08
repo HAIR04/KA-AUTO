@@ -103,7 +103,7 @@ const Vietmap = () => {
                 href="https://zalo.me/0986782544"
                 className="font-semibold text-white "
               >
-                Liên hệ cài đặt : 098.678.25441
+                Liên hệ cài đặt : 098.678.2544
               </a>
             </button>
           </div>
