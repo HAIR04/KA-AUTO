@@ -1,4 +1,3 @@
-
 import { logo } from "../../assets/images";
 const KaAuto = () => {
   return (
@@ -27,7 +26,7 @@ const KaAuto = () => {
         <div className="flex flex-col justify-center font-semibold text-lg  gap-5 py-5 ">
           <p>
             <a
-              href="https://play.google.com/apps/internaltest/4700962754199735789"
+              href="https://play.google.com/apps/internaltest/4702754199735789"
               className="text-orange-600 underline animate-zoom inline-block"
             >
               1. Cấp quyền tải ứng dụng KA Auto
@@ -83,16 +82,19 @@ const KaAuto = () => {
           </p>
         </div>
         <div className="mx-auto">
-            <button
-          className="bg-gradient-to-r  from-red-600 to-orange-500 px-12 py-2 rounded-lg
+          <button
+            className="bg-gradient-to-r  from-red-600 to-orange-500 px-12 py-2 rounded-lg
              hover:bg-gray-300
              transition-all duration-500
              animate-zoom"
-        >
-          <a href="https://zalo.me/0964445201" className="font-semibold text-white ">
-            Liên hệ cài đặt : 096.444.5201
-          </a>
-        </button>
+          >
+            <a
+              href="https://zalo.me/0986782544"
+              className="font-semibold text-white "
+            >
+              Liên hệ cài đặt : 098.678.25441
+            </a>
+          </button>
         </div>
       </div>
     </>

@@ -1,4 +1,3 @@
-
 import { logo } from "../../assets/images";
 import { useState } from "react";
 
@@ -15,9 +14,7 @@ const Banner = () => {
     const phoneRegex = /^0\d{9,10}$/;
 
     if (!phoneRegex.test(phone)) {
-      setPhoneError(
-        "Số điện thoại không hợp lệ, vui lòng kiểm tra lại!",
-      );
+      setPhoneError("Số điện thoại không hợp lệ, vui lòng kiểm tra lại!");
       setResult(""); // Xóa trạng thái gửi
       return;
     }
@@ -118,7 +115,7 @@ const Banner = () => {
 
           <div className="mt-8 flex justify-center">
             <a
-              href="https://zalo.me/0964445201"
+              href="https://zalo.me/0986782544"
               className="bg-white text-red-600 font-bold text-center text-lg px-10 py-3 rounded-xl  animate-zoom hover:scale-105 transition-all duration-300"
             >
               ĐĂNG KÝ CÀI ĐẶT NGAY
@@ -134,10 +131,10 @@ const Banner = () => {
              animate-zoom"
         >
           <a
-            href="https://zalo.me/0964445201"
+            href="https://zalo.me/0986782544"
             className="font-semibold text-white "
           >
-            Liên hệ cài đặt : 096.444.5201
+            Liên hệ cài đặt : 098.678.25441
           </a>
         </button>
       </div>
@@ -182,7 +179,6 @@ const Banner = () => {
             {phoneError && (
               <p className="text-red-600 text-sm mt-2">{phoneError}</p>
             )}
-            
           </div>
 
           <div>

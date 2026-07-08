@@ -100,10 +100,10 @@ const Vietmap = () => {
              animate-zoom"
             >
               <a
-                href="https://zalo.me/0964445201"
+                href="https://zalo.me/0986782544"
                 className="font-semibold text-white "
               >
-                Liên hệ cài đặt : 096.444.5201
+                Liên hệ cài đặt : 098.678.25441
               </a>
             </button>
           </div>

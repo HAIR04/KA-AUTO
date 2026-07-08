@@ -54,7 +54,7 @@ const Header = () => {
              
               className=" hover:text-xl duration-500"
             >
-               <a href="https://zalo.me/0964445201" className="px-4">
+               <a href="https://zalo.me/0986782544" className="px-4">
                   Hỗ trợ
                 </a>
             </p>
@@ -92,11 +92,11 @@ const Header = () => {
               </Link>
 
               <a
-                href="https://zalo.me/0964445201"
+                href="https://zalo.me/0986782544"
                 className="text-xl border-b border-gray-600 flex items-center border-opacity-30 py-4 px-7 w-full text-left font-semibold"
               >
                 <FontAwesomeIcon icon={faPhone} />
-                <a href="https://zalo.me/0964445201" className="px-4">
+                <a href="https://zalo.me/0986782544" className="px-4">
                   Hỗ trợ
                 </a>
               </a>
