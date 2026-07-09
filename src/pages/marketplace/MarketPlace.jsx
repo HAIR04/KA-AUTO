@@ -34,7 +34,7 @@ const KaAuto = () => {
           </p>
           <p>
             <a
-              href="https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead"
+              href="https://play.google.com/apps/internaltest/4700962754199735789"
               className="text-orange-600 underline"
             >
               2. Android Auto
