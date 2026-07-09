@@ -26,7 +26,7 @@ const KaAuto = () => {
         <div className="flex flex-col justify-center font-semibold text-lg  gap-5 py-5 ">
           <p>
             <a
-              href="https://play.google.com/apps/internaltest/4702754199735789"
+              href="https://play.google.com/apps/internaltest/4700962754199735789"
               className="text-orange-600 underline animate-zoom inline-block"
             >
               1. Cấp quyền tải ứng dụng KA Auto
@@ -34,7 +34,7 @@ const KaAuto = () => {
           </p>
           <p>
             <a
-              href="https://play.google.com/apps/internaltest/4700962754199735789"
+              href="https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead"
               className="text-orange-600 underline"
             >
               2. Android Auto
